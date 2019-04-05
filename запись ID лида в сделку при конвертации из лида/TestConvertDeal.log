@@ -1,0 +1,459 @@
+Array
+(
+    [TITLE] => ТЕСТОВЫЙ ЛИД К
+    [OPPORTUNITY] => 0.00
+    [CURRENCY_ID] => UAH
+    [COMMENTS] => 
+    [OPENED] => Y
+    [ASSIGNED_BY_ID] => 1
+    [UF_CRM_56F159A2A13C0] => 
+    [UF_CRM_56F159A31C102] => 41
+    [UF_CRM_5707A7BFE9017] => 0
+    [UF_CRM_5707A7C0857C4] => 0
+    [UF_CRM_5707A7C12C22D] => 0
+    [UF_CRM_5707A7C1B991C] => 0
+    [UF_CRM_5707A7C250255] => 0
+    [UF_CRM_5735DAB30D1AB] => 0
+    [UF_CRM_574571AF0F46F] => 0
+    [UF_CRM_574571B00D09C] => 0
+    [UF_CRM_57DFCFDEE2344] => Проезжал мимо/фасад
+    [UF_CRM_57DFCFE04AB50] => 05.04.2019 16:48:52
+    [UF_CRM_58204C62C4E85] => 1
+    [UF_CRM_58204C65A4FDE] => 0
+    [UF_CRM_58204C68651F3] => 1
+    [UF_CRM_58204C6A3006D] => 1
+    [UF_CRM_58204C6C2E344] => 1
+    [UF_CRM_58204C6DC6FBB] => 1
+    [UF_CRM_5821A5B0A8E84] => 1
+    [UF_CRM_582D78526865E] => 1
+    [UF_CRM_58593E57A46EB] => 0
+    [UF_CRM_586B8DCABCC79] => Array
+        (
+            [0] => 1353
+        )
+
+    [UF_CRM_5A7890CB86F8E] => 1516
+    [UF_CRM_5A9687EBC00F2] => 0
+    [UF_CRM_5B33CBCB7DF47] => 0
+    [UF_CRM_5B33CBE019369] => 0
+    [UF_CRM_5B33CBF23E96E] => 0
+    [UF_CRM_5B33CC02231E9] => 0
+    [UF_CRM_5B33CC1277040] => 0
+    [LEAD_ID] => 25631
+    [UF_CRM_1458295326] => 
+    [UF_CRM_1458297336] => 
+    [UF_CRM_56F159A2395EB] => 0
+    [UF_CRM_56F159A386DDE] => 
+    [UF_CRM_1458735078] => 0
+    [UF_CRM_1458741353] => 
+    [UF_CRM_1458741382] => 
+    [UF_CRM_1458741393] => 
+    [UF_CRM_1458741405] => 
+    [UF_CRM_1458741420] => 
+    [UF_CRM_1458741437] => 
+    [UF_CRM_1458741456] => 
+    [UF_CRM_1458811248] => 
+    [UF_CRM_5707A7C2E4C52] => 
+    [UF_CRM_5707A7C383A38] => 
+    [UF_CRM_5707A7C439C7F] => 
+    [UF_CRM_5707A7C4CF5B2] => 
+    [UF_CRM_5707A7C563301] => 
+    [UF_CRM_5707A7C60A222] => 0
+    [UF_CRM_1461572296] => 0
+    [UF_CRM_1461837084] => 
+    [UF_CRM_1461837109] => 
+    [UF_CRM_1461851778] => 0
+    [UF_CRM_572C61E8836F8] => 
+    [UF_CRM_572C61E91E466] => 0
+    [UF_CRM_572C61E9B691B] => 0
+    [UF_CRM_5735DAB3A6A85] => 0
+    [UF_CRM_5735DAB434670] => 0
+    [UF_CRM_5735DAB4A12BB] => 0
+    [UF_CRM_5735DAB711FBA] => 0
+    [UF_CRM_5735DAB7A6554] => 0
+    [UF_CRM_5735DABA749BD] => 0
+    [UF_CRM_5735DABAF2296] => 0
+    [UF_CRM_1463408869] => 
+    [UF_CRM_1463581372] => 
+    [UF_CRM_1463650842] => 
+    [UF_CRM_1463650854] => 
+    [UF_CRM_1463650864] => 
+    [UF_CRM_57934A5AC7DF8] => 
+    [UF_CRM_1469779061] => 0
+    [UF_CRM_1469779076] => 0
+    [UF_CRM_57DC002EEF695] => 0
+    [UF_CRM_57DC003257392] => 0
+    [UF_CRM_57DC00355B5DB] => 0
+    [UF_CRM_57DC00382B849] => 0
+    [UF_CRM_58204C570E66F] => 0
+    [UF_CRM_58204C5A2596B] => 0
+    [UF_CRM_58204C5BC5AE7] => 0
+    [UF_CRM_58204C5D8DE6B] => 0
+    [UF_CRM_58204C5F519D5] => 0
+    [UF_CRM_58204C60F22D1] => 0
+    [UF_CRM_5821A5B464012] => 0
+    [UF_CRM_58220927D320D] => 0
+    [UF_CRM_5822092990B84] => 0
+    [UF_CRM_582D785427CF7] => 0
+    [UF_CRM_58406058921D7] => 
+    [UF_CRM_58593E59E460F] => 
+    [UF_CRM_5A7890CF67650] => 
+    [UF_CRM_5A7890D48316D] => 
+    [UF_CRM_5A9687EF8240C] => 
+    [UF_CRM_1541519629] => 
+    [UF_CRM_5BE1C5E525031] => 
+    [~DATE_CREATE] => now()
+    [~DATE_MODIFY] => now()
+    [CREATED_BY_ID] => 1
+    [MODIFY_BY_ID] => 1
+    [CATEGORY_ID] => 0
+    [STAGE_ID] => NEW
+    [STAGE_SEMANTIC_ID] => P
+    [IS_NEW] => Y
+    [ACCOUNT_CURRENCY_ID] => UAH
+    [OPPORTUNITY_ACCOUNT] => 0.00
+    [TAX_VALUE_ACCOUNT] => 0
+    [~BEGINDATE] => '2019-04-05'
+    [CLOSED] => N
+)
+---------------
+тест без конвертации
+*******************
+
+Array
+(
+    [TITLE] => ТЕСТОВЫЙ ЛИД Бк
+    [COMMENTS] => 
+    [TYPE_ID] => SALE
+    [STAGE_ID] => NEW
+    [OPENED] => Y
+    [ASSIGNED_BY_ID] => 1
+    [OPPORTUNITY] => 10000
+    [CURRENCY_ID] => UAH
+    [EXCH_RATE] => 1
+    [UF_CRM_1458294764] => 31
+    [UF_CRM_1458294876] => 
+    [UF_CRM_1458295326] => 
+    [UF_CRM_1458297033] => 
+    [UF_CRM_1458297436] => 
+    [UF_CRM_1458297458] => 
+    [UF_CRM_1458297475] => 
+    [UF_CRM_1458297887] => 
+    [UF_CRM_1458298249] => 
+    [UF_CRM_1458300758] => 
+    [UF_CRM_1458300791] => 
+    [UF_CRM_1458307321] => Array
+        (
+        )
+
+    [UF_CRM_1458309441] => Array
+        (
+        )
+
+    [UF_CRM_1458735078] => 0
+    [UF_CRM_1458741353] => 
+    [UF_CRM_1458741382] => 
+    [UF_CRM_1458741393] => 
+    [UF_CRM_1458741405] => 
+    [UF_CRM_1458741420] => 
+    [UF_CRM_1458741437] => 
+    [UF_CRM_1458741456] => 
+    [UF_CRM_1458811248] => 
+    [UF_CRM_1461837084] => 
+    [UF_CRM_1461837109] => 
+    [UF_CRM_1463063042] => Array
+        (
+            [0] => 
+        )
+
+    [UF_CRM_1463408869] => 
+    [UF_CRM_1463476129] => Array
+        (
+        )
+
+    [UF_CRM_1463993458] => Array
+        (
+        )
+
+    [UF_CRM_1464360194] => Array
+        (
+            [0] => Array
+                (
+                    [name] => 
+                    [type] => 
+                    [tmp_name] => 
+                    [error] => 4
+                    [size] => 0
+                    [del] => 
+                    [old_id] => 
+                )
+
+            [1] => Array
+                (
+                    [name] => 
+                    [type] => 
+                    [tmp_name] => 
+                    [error] => 4
+                    [size] => 0
+                    [del] => 
+                    [old_id] => 
+                )
+
+        )
+
+    [UF_CRM_1467632197] => 
+    [UF_CRM_1472823020] => 
+    [UF_CRM_57DFCFDEE2344] => Источник
+    [UF_CRM_57DFCFE04AB50] => 
+    [UF_CRM_586B8DCABCC79] => Array
+        (
+            [0] => 
+            [1] => 
+        )
+
+    [UF_CRM_5A7890CB86F8E] => 1516
+    [~DATE_CREATE] => now()
+    [~DATE_MODIFY] => now()
+    [CREATED_BY_ID] => 1
+    [MODIFY_BY_ID] => 1
+    [CATEGORY_ID] => 0
+    [STAGE_SEMANTIC_ID] => P
+    [IS_NEW] => Y
+    [ACCOUNT_CURRENCY_ID] => UAH
+    [OPPORTUNITY_ACCOUNT] => 10000
+    [TAX_VALUE_ACCOUNT] => 0
+    [~BEGINDATE] => '2019-04-05'
+    [CLOSED] => N
+)
+
+
+
+////////////////
+ТЕст после добавления кода
+//////////**********
+
+Array
+(
+    [TITLE] => ТЕСТОВЫЙ ЛИД К
+    [OPPORTUNITY] => 0.00
+    [CURRENCY_ID] => UAH
+    [COMMENTS] => 
+    [OPENED] => Y
+    [ASSIGNED_BY_ID] => 1
+    [UF_CRM_56F159A2A13C0] => 
+    [UF_CRM_56F159A31C102] => 41
+    [UF_CRM_5707A7BFE9017] => 0
+    [UF_CRM_5707A7C0857C4] => 0
+    [UF_CRM_5707A7C12C22D] => 0
+    [UF_CRM_5707A7C1B991C] => 0
+    [UF_CRM_5707A7C250255] => 0
+    [UF_CRM_5735DAB30D1AB] => 0
+    [UF_CRM_574571AF0F46F] => 0
+    [UF_CRM_574571B00D09C] => 0
+    [UF_CRM_57DFCFDEE2344] => Проезжал мимо/фасад
+    [UF_CRM_57DFCFE04AB50] => 05.04.2019 16:48:52
+    [UF_CRM_58204C62C4E85] => 1
+    [UF_CRM_58204C65A4FDE] => 0
+    [UF_CRM_58204C68651F3] => 1
+    [UF_CRM_58204C6A3006D] => 1
+    [UF_CRM_58204C6C2E344] => 1
+    [UF_CRM_58204C6DC6FBB] => 0
+    [UF_CRM_5821A5B0A8E84] => 1
+    [UF_CRM_582D78526865E] => 1
+    [UF_CRM_58593E57A46EB] => 0
+    [UF_CRM_586B8DCABCC79] => Array
+        (
+            [0] => 1353
+        )
+
+    [UF_CRM_5A7890CB86F8E] => 1516
+    [UF_CRM_5A9687EBC00F2] => 0
+    [UF_CRM_5B33CBCB7DF47] => 0
+    [UF_CRM_5B33CBE019369] => 0
+    [UF_CRM_5B33CBF23E96E] => 0
+    [UF_CRM_5B33CC02231E9] => 0
+    [UF_CRM_5B33CC1277040] => 0
+    [LEAD_ID] => 25631
+    [UF_CRM_1458295326] => 
+    [UF_CRM_1458297336] => 
+    [UF_CRM_56F159A2395EB] => 0
+    [UF_CRM_56F159A386DDE] => 
+    [UF_CRM_1458735078] => 0
+    [UF_CRM_1458741353] => 
+    [UF_CRM_1458741382] => 
+    [UF_CRM_1458741393] => 
+    [UF_CRM_1458741405] => 
+    [UF_CRM_1458741420] => 
+    [UF_CRM_1458741437] => 
+    [UF_CRM_1458741456] => 
+    [UF_CRM_1458811248] => 
+    [UF_CRM_5707A7C2E4C52] => 
+    [UF_CRM_5707A7C383A38] => 
+    [UF_CRM_5707A7C439C7F] => 
+    [UF_CRM_5707A7C4CF5B2] => 
+    [UF_CRM_5707A7C563301] => 
+    [UF_CRM_5707A7C60A222] => 0
+    [UF_CRM_1461572296] => 0
+    [UF_CRM_1461837084] => 
+    [UF_CRM_1461837109] => 
+    [UF_CRM_1461851778] => 0
+    [UF_CRM_572C61E8836F8] => 
+    [UF_CRM_572C61E91E466] => 0
+    [UF_CRM_572C61E9B691B] => 0
+    [UF_CRM_5735DAB3A6A85] => 0
+    [UF_CRM_5735DAB434670] => 0
+    [UF_CRM_5735DAB4A12BB] => 0
+    [UF_CRM_5735DAB711FBA] => 0
+    [UF_CRM_5735DAB7A6554] => 0
+    [UF_CRM_5735DABA749BD] => 0
+    [UF_CRM_5735DABAF2296] => 0
+    [UF_CRM_1463408869] => 
+    [UF_CRM_1463581372] => 
+    [UF_CRM_1463650842] => 
+    [UF_CRM_1463650854] => 
+    [UF_CRM_1463650864] => 
+    [UF_CRM_57934A5AC7DF8] => 
+    [UF_CRM_1469779061] => 0
+    [UF_CRM_1469779076] => 0
+    [UF_CRM_57DC002EEF695] => 0
+    [UF_CRM_57DC003257392] => 0
+    [UF_CRM_57DC00355B5DB] => 0
+    [UF_CRM_57DC00382B849] => 0
+    [UF_CRM_58204C570E66F] => 0
+    [UF_CRM_58204C5A2596B] => 0
+    [UF_CRM_58204C5BC5AE7] => 0
+    [UF_CRM_58204C5D8DE6B] => 0
+    [UF_CRM_58204C5F519D5] => 0
+    [UF_CRM_58204C60F22D1] => 0
+    [UF_CRM_5821A5B464012] => 0
+    [UF_CRM_58220927D320D] => 0
+    [UF_CRM_5822092990B84] => 0
+    [UF_CRM_582D785427CF7] => 0
+    [UF_CRM_58406058921D7] => 
+    [UF_CRM_58593E59E460F] => 
+    [UF_CRM_5A7890CF67650] => 
+    [UF_CRM_5A7890D48316D] => 
+    [UF_CRM_5A9687EF8240C] => 
+    [UF_CRM_1541519629] => 
+    [UF_CRM_5BE1C5E525031] => 
+    [~DATE_CREATE] => now()
+    [~DATE_MODIFY] => now()
+    [CREATED_BY_ID] => 1
+    [MODIFY_BY_ID] => 1
+    [CATEGORY_ID] => 0
+    [STAGE_ID] => NEW
+    [STAGE_SEMANTIC_ID] => P
+    [IS_NEW] => Y
+    [ACCOUNT_CURRENCY_ID] => UAH
+    [OPPORTUNITY_ACCOUNT] => 0.00
+    [TAX_VALUE_ACCOUNT] => 0
+    [~BEGINDATE] => '2019-04-05'
+    [CLOSED] => N
+    [UF_CRM_1554473020] => 25631
+)
+Array
+(
+    [TITLE] => ТЕСТ СДЕЛКА Бл
+    [COMMENTS] => ТЕСТ!
+    [TYPE_ID] => SERVICES
+    [STAGE_ID] => NEW
+    [OPENED] => Y
+    [ASSIGNED_BY_ID] => 1
+    [OPPORTUNITY] => 
+    [CURRENCY_ID] => UAH
+    [EXCH_RATE] => 1
+    [UF_CRM_1458294764] => 31
+    [UF_CRM_1458294876] => 
+    [UF_CRM_1458295326] => 
+    [UF_CRM_1458297033] => 
+    [UF_CRM_1458297436] => 
+    [UF_CRM_1458297458] => 
+    [UF_CRM_1458297475] => 
+    [UF_CRM_1458297887] => 
+    [UF_CRM_1458298249] => 
+    [UF_CRM_1458300758] => 
+    [UF_CRM_1458300791] => 
+    [UF_CRM_1458307321] => Array
+        (
+        )
+
+    [UF_CRM_1458309441] => Array
+        (
+        )
+
+    [UF_CRM_1458735078] => 0
+    [UF_CRM_1458741353] => 
+    [UF_CRM_1458741382] => 
+    [UF_CRM_1458741393] => 
+    [UF_CRM_1458741405] => 
+    [UF_CRM_1458741420] => 
+    [UF_CRM_1458741437] => 
+    [UF_CRM_1458741456] => 
+    [UF_CRM_1458811248] => 
+    [UF_CRM_1461837084] => 
+    [UF_CRM_1461837109] => 
+    [UF_CRM_1463063042] => Array
+        (
+            [0] => 
+        )
+
+    [UF_CRM_1463408869] => 
+    [UF_CRM_1463476129] => Array
+        (
+        )
+
+    [UF_CRM_1463993458] => Array
+        (
+        )
+
+    [UF_CRM_1464360194] => Array
+        (
+            [0] => Array
+                (
+                    [name] => 
+                    [type] => 
+                    [tmp_name] => 
+                    [error] => 4
+                    [size] => 0
+                    [del] => 
+                    [old_id] => 
+                )
+
+            [1] => Array
+                (
+                    [name] => 
+                    [type] => 
+                    [tmp_name] => 
+                    [error] => 4
+                    [size] => 0
+                    [del] => 
+                    [old_id] => 
+                )
+
+        )
+
+    [UF_CRM_1467632197] => 
+    [UF_CRM_1472823020] => 
+    [UF_CRM_57DFCFDEE2344] => вфаыаф
+    [UF_CRM_57DFCFE04AB50] => 
+    [UF_CRM_586B8DCABCC79] => Array
+        (
+            [0] => 
+            [1] => 
+        )
+
+    [UF_CRM_5A7890CB86F8E] => 1517
+    [UF_CRM_1554473020] => 
+    [~DATE_CREATE] => now()
+    [~DATE_MODIFY] => now()
+    [CREATED_BY_ID] => 1
+    [MODIFY_BY_ID] => 1
+    [CATEGORY_ID] => 0
+    [STAGE_SEMANTIC_ID] => P
+    [IS_NEW] => Y
+    [ACCOUNT_CURRENCY_ID] => UAH
+    [OPPORTUNITY_ACCOUNT] => 
+    [TAX_VALUE_ACCOUNT] => 0
+    [~BEGINDATE] => '2019-04-05'
+    [CLOSED] => N
+)
