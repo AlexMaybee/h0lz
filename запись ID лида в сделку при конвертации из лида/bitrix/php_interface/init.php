@@ -273,7 +273,8 @@ function LogData(&$arFields){
     if(in_array('LEAD_ID',$arFields)){
 
         //тогда записываем ее в специально созданное поле
-        $arFields['UF_CRM_1554473020'] = $arFields['LEAD_ID'];
+        $arFields['UF_CRM_1554473020'] = $arFields['LEAD_ID']; //Поле с привязкой, в отчет выдает название, а не ID лида
+        $arFields['UF_CRM_1554713631'] = $arFields['LEAD_ID']; //Должно отдавать ID
     }
 
 //    $file = $_SERVER['DOCUMENT_ROOT'].'/TestConvertDeal.log';
