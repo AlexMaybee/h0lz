@@ -2789,7 +2789,7 @@ $(function () {
         }
         var opportunity = mzkQuantity * mzkPrice + vinilQuantity * vinilPrice + entranceQuantity * entrancePrice + laminateQuantity * laminatePrice + parquetQuantity * parquetPrice;
         opportunity = opportunity + accessoriseQuantity;
-        console.log(opportunity);
+      //  console.log(opportunity);
         $("input[name=OPPORTUNITY]").val(opportunity+".0");
         var mzk = mzkQuantity * mzkPrice;
         $("input[name=UF_CRM_1530111488]").val(mzk+".0");
@@ -2812,6 +2812,8 @@ $(document).ready(function () {
 
     $("#uf_crm_1459950662_wrap").hide();
     $("#uf_crm_1519813129_wrap").hide();
+    $("#uf_crm_1559652650_wrap").hide(); //select вид декора
+    $("#uf_crm_1559653216_wrap").hide(); // кол-во декора м.кв.
     $("#uf_crm_1459950809_wrap").hide();
     $("#uf_crm_1459950857_wrap").hide();
     $("#uf_crm_1459950839_wrap").hide();
@@ -2940,6 +2942,21 @@ $(document).ready(function () {
             $("#uf_crm_1519822883_wrap").hide(); //добавитьтм
         }
     });
+
+//04.06.2019 Декоры
+    $("#main_UF_CRM_1559652518 :checkbox").change(function () {
+        console.log('Привет на 100 лет!');
+        if ($("#main_UF_CRM_1559652518 input:checkbox").prop("checked") == true) {
+            $("#uf_crm_1559652650_wrap").show(); //вид декора
+            $("#uf_crm_1559653216_wrap").show(); //Кол-во (декоры) м. кв.
+        }
+        else {
+            $("#uf_crm_1559652650_wrap").hide(); //вид декора
+            $("#uf_crm_1559653216_wrap").hide(); //Кол-во (декоры) м. кв.
+        }
+
+    });
+
 
 //мжк без клика
     if ($("#main_UF_CRM_1459949328 input:checkbox").prop("checked") == true) {
@@ -3253,7 +3270,8 @@ function initFunction(mas) {
         }
         $("#section_ondlpy4x_contents").addClass("empty_field");
         $("#main_UF_CRM_1459950662").find('input').css('background-color', '#98FF98')
-        $("#main_UF_CRM_1519813129").find('input').css('background-color', '#98FF98')
+        $("#main_UF_CRM_1519813129").find('input').css('background-color', '#98FF98') //цвет поля с кол-вом м.кв. декора
+        $("#main_UF_CRM_1559653216").find('input').css('background-color', '#98FF98')
         $("#main_UF_CRM_1459950809").find('input').css('background-color', '#98FF98')
         $("#main_UF_CRM_1459950857").find('input').css('background-color', '#98FF98')
         $("#main_UF_CRM_1459950839").find('input').css('background-color', '#98FF98')
